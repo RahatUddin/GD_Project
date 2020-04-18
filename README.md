@@ -2,7 +2,7 @@
 
 Hi there,
 
-My name is Rahat, I've spent this quarantine trying to learn something new.
+I've spent this quarantine trying to learn something new.
 I've always wanted to learn game development and with all this free time during lockdown I thought why not start now...
 
 https://learn.unity.com/project/tanks-tutorial - I followed this course which I would recommend to anyone else who is also interested. Once I was finished I wanted to utilise the skills I learnt and add my own touch to the game.
