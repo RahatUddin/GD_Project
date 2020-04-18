@@ -14,7 +14,9 @@ At this moment in time the game is only supported on PC.
 ==Controls==
 
 W, A, S, D - Move Player
+
 [SpaceBar] - Shoot
+
 Hold [SpaceBar] - Charge up shot
 
 Enjoy :D
