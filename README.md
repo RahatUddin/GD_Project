@@ -19,4 +19,6 @@ W, A, S, D - Move Player
 
 Hold [SpaceBar] - Charge up shot
 
+Here's the link to the game: https://rahatuddin.github.io/GD_Project/
+
 Enjoy :D
